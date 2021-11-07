@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2? family= Gideon+Roman & display=swap');
+.body-background{
+    background-color: rgb(26, 121, 116);
+    font-family: 'Gideon Roman', cursive;
+}
+.div-header{
+    text-align: center;
+
+}
+.bold {
+    font-weight: 900;
+}
+.no-margins {
+    margin: 0;
+}
+
+.div-form {
+    background-color: rgb(88, 165, 161);
+    width: 565px; 
+    height: 380px;
+    padding: 30px;
+    border-radius: 25px;
+    margin: 10px 0px 0px 60px;
+
+}
+.bott {
+    background-color: rgb(26, 121, 116);
+    font-family: 'Gideon Roman', cursive;   
+    font-size: 15px;
+    border-radius: 6px;
+    
+}
+.bott:hover{
+    background-color:rgb(38, 139, 134);
+}
+.div-butt {
+    text-align: center;
+}
+.div-video {
+    margin: 100px 0px 0px 85px;
+}
+.div-body-container{
+    display: flex;
+}
